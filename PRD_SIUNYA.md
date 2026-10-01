@@ -414,6 +414,6 @@ Nama produk yang digunakan adalah **SIUNYA**.
 
 SIUNYA memiliki cakupan tingkat **Universitas Negeri Yogyakarta**, bukan hanya Fakultas Teknik. Produk difokuskan pada penyediaan informasi, kegiatan, fasilitas, organisasi, serta layanan pelaporan bagi mahasiswa.
 
-SIUNYA tidak dimaksudkan untuk menggantikan SIAKAD, sistem pembayaran, presensi, KRS, nilai, maupun sistem akademik dan administrasi internal lainnya.
+SIUNYA **tidak** dimaksudkan untuk **menggantikan** SIAKAD, sistem pembayaran, presensi, KRS, nilai, maupun sistem akademik dan administrasi internal lainnya.
 
 Pengembangan SIUNYA menggunakan pendekatan **Agile** dengan pengembangan secara **iteratif dan incremental**, sehingga sistem dapat dikembangkan secara bertahap serta disesuaikan berdasarkan feedback pengguna dan stakeholder.
